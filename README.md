@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @linuxangelhx
+- 👀 I’m interested in learning programming languajes.
+- 🌱 I’m currently learning Python, JavaScript, PHP and SQL.
+- 📫 You can reach me by email hxcode@protonmail.com
